@@ -10,7 +10,7 @@ Table yang menjelaskan macam-macam tipe data primitif dan referensi pada Java:
 
 Contoh Program :
 
-ExWrapperClass.java
+https://github.com/dindatry10/PBO-Teori/blob/3299f2b12147b5d575725755baa1fc153369e7d5/ExWrapperClass.java
 
 # B.Final, Finally, Finalize
    <>Final adalah keyword untuk mendeklarasikan bahwa sebuah variabel/atribut tidak dapat diubah lagi isinya (konstan), jika final disebutkan di method, artinya method tersebut tidak dapat di override oleh subclassnya, jika final disebutkan di class, artinya class tersebut tidak dapat diturunkan lagi
